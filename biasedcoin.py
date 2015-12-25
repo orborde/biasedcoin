@@ -1,3 +1,6 @@
+# What is the probability that a biased coin will come up heads twice?
+# Assume a uniform distribution of possible biases.
+
 import random
 
 RUNS = 1000000
