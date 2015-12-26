@@ -1,5 +1,8 @@
 # What is the probability that a biased coin will come up heads twice?
 # Assume a uniform distribution of possible biases.
+#
+# Thanks to Pasha for showing me the problem and its surprising
+# solution.
 
 import random
 
